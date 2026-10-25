@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Shazia Bano</h1>
 
 <h3 align="center">
-AI/ML Enthusiast • LLM Evaluation • Prompt Engineering • Python Developer
+AI/ML Enthusiast • LLM Evaluation • Prompt Engineering 
 </h3>
 
 <p align="center">
