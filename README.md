@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Shazia Bano</h1>
+<h1 align="center">Hi , I am Shazia Bano</h1>
 
 <h3 align="center">
 AI/ML Enthusiast • LLM Evaluation • Prompt Engineering 
