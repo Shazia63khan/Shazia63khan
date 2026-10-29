@@ -26,7 +26,7 @@ Passionate about building AI-powered applications, evaluating Large Language Mod
 
 🎓 B.Tech Computer Science Engineering student
 
-🤖 Working at **Innodata** as a Data Annotator
+🤖 Working at **Mindtel Global Pvt. Ltd.** as a Data Annotator
 
 💼 Former **LLM Post-Training Intern @ Ethara AI**
 
