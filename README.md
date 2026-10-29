@@ -177,7 +177,7 @@ Personal portfolio showcasing projects and skills.
 
 ---
 
-# 🌟 Currently Learning
+# Currently Learning
 
 - Deep Learning
 - LLM Fine-tuning
@@ -187,7 +187,7 @@ Personal portfolio showcasing projects and skills.
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 📧 **Email**
 
